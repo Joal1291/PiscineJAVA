@@ -5,7 +5,7 @@ Apprentissage de Java sur deux semaines qui sera suivi d'un projet à réaliser.
 
 | Day | Subject | Process | Marvin |Link|
 |:----|:--------|:--------|:-------|:---|
-|1|||||
+|1|Building a function|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day1)|
 |2|||||
 |3|||||
 |4|||||
