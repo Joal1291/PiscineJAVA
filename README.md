@@ -6,7 +6,7 @@ Apprentissage de Java sur deux semaines qui sera suivi d'un projet à réaliser.
 | Day | Subject | Process | Marvin |Link|
 |:----|:--------|:--------|:-------|:---|
 |1|Building a function in class|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day1)|
-|2|||||
+|2|Class, setter, getter, method|Comlete|Yes|[here](https://github.com/Joal1291/PiscineJAVA/tree/main/day2)|
 |3|||||
 |4|||||
 |5|||||
