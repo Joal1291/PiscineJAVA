@@ -6,4 +6,8 @@ public class Ex02 {
         }
         System.out.println(result);
     }
+
+    public static void main(String[] args){
+        getAngryDog(3);
+    }
 }
