@@ -1,6 +1,17 @@
 public class Mars {
-    
-    Mars(){
 
+    // --- Variable
+    private static int lastId = 0;
+    private int id;
+
+    // --- Construteur
+    Mars(){
+        this.id = ++lastId;
     }
+
+    // --- Getter, Setter
+    public void getId(){
+        return id;
+    }
+    // --- Methods
 }
