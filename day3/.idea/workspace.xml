@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b6b4233-f53d-47b1-9d1d-2820f8a30f42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../day2/ex_02/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_02/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_02/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_03/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_03/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_03/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_04/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_04/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_04/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_04/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_05/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_05/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_05/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_05/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_06/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_06/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_06/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_06/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_07/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_07/Gecko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/ex_07/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_07/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XGZUXg3ULNywhzCI1wNObPCq6L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jo/Documents/VsCode/Epitech/PiscineJAVA/day3",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b6b4233-f53d-47b1-9d1d-2820f8a30f42" name="Changes" comment="" />
+      <created>1698257392211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698257392211</updated>
+      <workItem from="1698257393243" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
