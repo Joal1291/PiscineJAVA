@@ -1,4 +1,4 @@
-package chocolate;
+package ex_01;
 
 public class Mars {
     // -----Variable-----
@@ -17,4 +17,5 @@ public class Mars {
     }
 
     // ------Methods-----
+
 }

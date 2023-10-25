@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b6b4233-f53d-47b1-9d1d-2820f8a30f42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../day2/ex_02/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_02/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_02/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_03/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_03/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_03/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_04/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_04/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_04/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_04/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_05/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_05/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_05/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_05/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_06/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_06/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_06/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_06/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_07/Gecko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_07/Gecko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/ex_07/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/ex_07/Test.java" afterDir="false" />
+    <list default="true" id="7b7b26c4-7242-4569-8255-db06a0ea3fc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/day3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocolate/Mars.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocolate/Mars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planet/Mars.java" beforeDir="false" afterPath="$PROJECT_DIR$/planet/Mars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2XGZUXg3ULNywhzCI1wNObPCq6L" />
+  <component name="ProjectId" id="2XGcnfppa6Jj1C3xblPnpUMe335" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,12 +40,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b6b4233-f53d-47b1-9d1d-2820f8a30f42" name="Changes" comment="" />
-      <created>1698257392211</created>
+      <changelist id="7b7b26c4-7242-4569-8255-db06a0ea3fc3" name="Changes" comment="" />
+      <created>1698259026017</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698257392211</updated>
-      <workItem from="1698257393243" duration="53000" />
+      <updated>1698259026017</updated>
+      <workItem from="1698259027031" duration="89000" />
     </task>
     <servers />
   </component>
