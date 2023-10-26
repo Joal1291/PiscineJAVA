@@ -8,7 +8,7 @@ Apprentissage de Java sur deux semaines qui sera suivi d'un projet à réaliser.
 |1|Building a function in class|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day1)|
 |2|Class, setter, getter, method|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day2)|
 |3|Extensions of day2 + static keyword and packages|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day3)|
-|4|||||
+|4|Enum, static keyword with static methods, protected visibility and inheritance|Complete|Yes|[Here](https://github.com/Joal1291/PiscineJAVA/tree/main/day4/day4)|
 |5|||||
 |6|||||
 |7|||||
