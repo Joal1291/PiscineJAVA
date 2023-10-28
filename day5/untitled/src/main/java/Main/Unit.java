@@ -12,6 +12,7 @@ abstract class Unit implements Fighter{
     protected Fighter target;
     protected boolean isDead;
 
+
     // --- Constructor
     protected Unit(String name, int hp, int ap){
         this.id = ++lastId;
