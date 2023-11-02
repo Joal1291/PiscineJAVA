@@ -1,4 +1,5 @@
 package Composite;
 
-public class Sentence {
+public interface Sentence {
+    public void print();
 }
