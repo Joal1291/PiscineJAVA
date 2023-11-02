@@ -1,5 +1,7 @@
 import Composite.SentenceComposite;
 import Composite.Word;
+import Observer.Customer;
+import Observer.Order;
 
 public class Main {
 
@@ -20,5 +22,11 @@ public class Main {
 //        sc3.print();
 //    }
 
-
+    public static void main ( String [] args ) {
+        Order order = new Order () ;
+        Customer customer = new Customer () ;
+        order . addObserver ( customer ) ;
+        order . setData ( " 123.5326 , 237.9277 " , " 6 W 40 th Street , New York " , 10) ;
+        order . notifyObservers () ;
+    }
 }
